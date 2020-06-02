@@ -1,0 +1,222 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 Jun 2020 12:09:17 at http://paradise.jwsuperthemes.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://paradise.jwsuperthemes.com/ -O1 "D:\Extra\College\Beauty\Beauty" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:13:22	Error: 	"Forbidden" (403) at link paradise.jwsuperthemes.com/xmlrpc.php?rsd (from paradise.jwsuperthemes.com/)
+12:14:54	Error: 	"Error when decompressing" (-1) at link paradise.jwsuperthemes.com/services/%e2%80%8bfull-body-massages%e2%80%8b/ (from paradise.jwsuperthemes.com/)
+12:15:30	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/services_spa/sports-massage/
+12:15:30	Warning: 	File has moved from paradise.jwsuperthemes.com/services_spa/sports-massage/ to http://paradise.jwsuperthemes.com/services/sports-massage/
+12:15:30	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/services_spa/intensive-healing-pedicure/
+12:15:30	Warning: 	File has moved from paradise.jwsuperthemes.com/services_spa/intensive-healing-pedicure/ to http://paradise.jwsuperthemes.com/services/intensive-healing-pedicure/
+12:15:36	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/services_spa/facial-massages/
+12:15:36	Warning: 	File has moved from paradise.jwsuperthemes.com/services_spa/facial-massages/ to http://paradise.jwsuperthemes.com/services/facial-massages/
+12:15:36	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/services_spa/body-treatments/
+12:15:36	Warning: 	File has moved from paradise.jwsuperthemes.com/services_spa/body-treatments/ to http://paradise.jwsuperthemes.com/services/body-treatments/
+12:15:36	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/services_spa/aromatherapy/
+12:15:36	Warning: 	File has moved from paradise.jwsuperthemes.com/services_spa/aromatherapy/ to http://paradise.jwsuperthemes.com/services/aromatherapy/
+12:17:59	Warning: 	Found for paradise.jwsuperthemes.com/checkout/
+12:17:59	Warning: 	File has moved from paradise.jwsuperthemes.com/checkout/ to http://paradise.jwsuperthemes.com/cart/
+12:18:18	Warning: 	Link paradise.jwsuperthemes.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:18:43	Warning: 	File not parsed, looks like binary: paradise.jwsuperthemes.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+12:18:43	Warning: 	File not parsed, looks like binary: paradise.jwsuperthemes.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+12:18:43	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/wp-content/themes/paradise/assets/css/img/owl.video.play.png (from paradise.jwsuperthemes.com/wp-content/cache/min/1/wp-content/themes/paradise/assets/css/css_jws/owl.carousel-4dbcb706e61b2a0f8377dd78980e631b.css)
+12:18:43	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/wp-content/themes/paradise/assets/fonts/glyphicons-halflings-regular.eot (from paradise.jwsuperthemes.com/wp-content/cache/busting/1/wp-content/themes/paradise/assets/css/bootstrap.min-7759b34e081adcf8afd579fbdd4fd047.css)
+12:18:43	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/wp-content/themes/paradise/assets/fonts/glyphicons-halflings-regular.eot? (from paradise.jwsuperthemes.com/wp-content/cache/busting/1/wp-content/themes/paradise/assets/css/bootstrap.min-7759b34e081adcf8afd579fbdd4fd047.css)
+12:18:43	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/wp-content/themes/paradise/assets/fonts/glyphicons-halflings-regular.woff (from paradise.jwsuperthemes.com/wp-content/cache/busting/1/wp-content/themes/paradise/assets/css/bootstrap.min-7759b34e081adcf8afd579fbdd4fd047.css)
+12:18:43	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/wp-content/themes/paradise/assets/fonts/glyphicons-halflings-regular.ttf (from paradise.jwsuperthemes.com/wp-content/cache/busting/1/wp-content/themes/paradise/assets/css/bootstrap.min-7759b34e081adcf8afd579fbdd4fd047.css)
+12:18:43	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/wp-content/themes/paradise/assets/fonts/glyphicons-halflings-regular.svg (from paradise.jwsuperthemes.com/wp-content/cache/busting/1/wp-content/themes/paradise/assets/css/bootstrap.min-7759b34e081adcf8afd579fbdd4fd047.css)
+12:18:44	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=35
+12:18:44	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=35 to http://paradise.jwsuperthemes.com/home-page-two/
+12:18:47	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=37
+12:18:47	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=37 to http://paradise.jwsuperthemes.com/home-page-three/
+12:19:17	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=1331
+12:19:17	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=1331 to http://paradise.jwsuperthemes.com/home-spa-7/
+12:19:19	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=39
+12:19:19	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=39 to http://paradise.jwsuperthemes.com/home-page-four/
+12:19:27	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=1583
+12:19:27	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=1583 to http://paradise.jwsuperthemes.com/home-nail-10/
+12:19:36	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/professional-tattoo-artist-in-5-steps/feed/ (from paradise.jwsuperthemes.com/services/professional-tattoo-artist-in-5-steps/)
+12:19:43	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=439
+12:19:43	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=439 to http://paradise.jwsuperthemes.com/services/professional-tattoo-artist-in-5-steps/
+12:19:50	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/be-picky-where-you-tattoo/feed/ (from paradise.jwsuperthemes.com/services/be-picky-where-you-tattoo/)
+12:19:50	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=435
+12:19:50	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=435 to http://paradise.jwsuperthemes.com/services/be-picky-where-you-tattoo/
+12:19:50	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/blackwork-tattoo/feed/ (from paradise.jwsuperthemes.com/services/blackwork-tattoo/)
+12:19:50	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=429
+12:19:50	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=429 to http://paradise.jwsuperthemes.com/services/blackwork-tattoo/
+12:19:50	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/warm-cream-pedicure/feed/ (from paradise.jwsuperthemes.com/services/warm-cream-pedicure/)
+12:19:50	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=312
+12:19:50	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=312 to http://paradise.jwsuperthemes.com/services/warm-cream-pedicure/
+12:19:50	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/pedicure-refresher/feed/ (from paradise.jwsuperthemes.com/services/pedicure-refresher/)
+12:19:50	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=305
+12:19:50	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=305 to http://paradise.jwsuperthemes.com/services/pedicure-refresher/
+12:19:50	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/therapeutic-pedicure/feed/ (from paradise.jwsuperthemes.com/services/therapeutic-pedicure/)
+12:19:50	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=310
+12:19:50	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=310 to http://paradise.jwsuperthemes.com/services/therapeutic-pedicure/
+12:19:51	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/shop/.sidebar-shop (from paradise.jwsuperthemes.com/shop/?layout=fullwidth)
+12:20:34	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=11
+12:20:34	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=11 to http://paradise.jwsuperthemes.com/booking/
+12:20:34	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=19
+12:20:34	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=19 to http://paradise.jwsuperthemes.com/blogs/
+12:20:47	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=928
+12:20:47	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=928 to http://paradise.jwsuperthemes.com/bloggrid-sidebar/
+12:21:05	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=955
+12:21:05	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=955 to http://paradise.jwsuperthemes.com/blog-classic/
+12:21:07	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=690
+12:21:07	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=690 to http://paradise.jwsuperthemes.com/the-balance-harmony-of-body-and-mind/
+12:21:10	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=17
+12:21:10	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=17 to http://paradise.jwsuperthemes.com/gallery/
+12:21:10	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=845
+12:21:10	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=845 to http://paradise.jwsuperthemes.com/gallery-masonry/
+12:21:10	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=15
+12:21:10	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=15 to http://paradise.jwsuperthemes.com/pages/
+12:21:10	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=737
+12:21:10	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=737 to http://paradise.jwsuperthemes.com/about-us/
+12:21:10	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=762
+12:21:10	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=762 to http://paradise.jwsuperthemes.com/contact-us/
+12:21:10	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=792
+12:21:10	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=792 to http://paradise.jwsuperthemes.com/testimonials/
+12:21:10	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=806
+12:21:10	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=806 to http://paradise.jwsuperthemes.com/our-pricing/
+12:21:10	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=822
+12:21:10	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=822 to http://paradise.jwsuperthemes.com/gift-certificates/
+12:21:10	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=855
+12:21:10	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=855 to http://paradise.jwsuperthemes.com/faqs/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=144
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=144 to http://paradise.jwsuperthemes.com/cart/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=66
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=66 to http://paradise.jwsuperthemes.com/services/%e2%80%8bfull-body-massages%e2%80%8b/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=75
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=75 to http://paradise.jwsuperthemes.com/services/aromatherapy/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=76
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=76 to http://paradise.jwsuperthemes.com/services/facial-massages/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=77
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=77 to http://paradise.jwsuperthemes.com/services/body-treatments/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=219
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=219 to http://paradise.jwsuperthemes.com/services/physiotherapy/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=218
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=218 to http://paradise.jwsuperthemes.com/services/sports-massage/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=692
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=692 to http://paradise.jwsuperthemes.com/the-personalized-ocean-and-earth-body-wrap/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=694
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=694 to http://paradise.jwsuperthemes.com/the-de-stress-massage-and-body-cocoon/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=228
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=228 to http://paradise.jwsuperthemes.com/team/jackson-nash/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=235
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=235 to http://paradise.jwsuperthemes.com/team/ollie-schneider/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=236
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=236 to http://paradise.jwsuperthemes.com/team/roger-west/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=237
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=237 to http://paradise.jwsuperthemes.com/team/alex-manning/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=486
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=486 to http://paradise.jwsuperthemes.com/team/thomas-cruz/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=487
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=487 to http://paradise.jwsuperthemes.com/team/alberto-hoffman/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=488
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=488 to http://paradise.jwsuperthemes.com/team/edwin-wood/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=597
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=597 to http://paradise.jwsuperthemes.com/team/jackson-nash-2/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=602
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=602 to http://paradise.jwsuperthemes.com/team/ollie-schneider-2/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=603
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=603 to http://paradise.jwsuperthemes.com/team/roger-west-2/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=604
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=604 to http://paradise.jwsuperthemes.com/team/alex-manning-2/
+12:21:37	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=280
+12:21:37	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=280 to http://paradise.jwsuperthemes.com/product/firming-body-creme/
+12:21:42	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=279
+12:21:42	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=279 to http://paradise.jwsuperthemes.com/product/the-supreme-skin-care-3/
+12:21:42	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=275
+12:21:42	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=275 to http://paradise.jwsuperthemes.com/product/the-supreme-skin-care-2/
+12:21:42	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=270
+12:21:42	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=270 to http://paradise.jwsuperthemes.com/product/the-supreme-skin-care/
+12:21:42	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=146
+12:21:42	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=146 to http://paradise.jwsuperthemes.com/my-account/
+12:21:43	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/intensive-healing-pedicure/feed/ (from paradise.jwsuperthemes.com/services/intensive-healing-pedicure/)
+12:21:43	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=302
+12:21:43	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=302 to http://paradise.jwsuperthemes.com/services/intensive-healing-pedicure/
+12:21:43	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=1656
+12:21:43	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=1656 to http://paradise.jwsuperthemes.com/its-a-marshmallow-world/
+12:21:43	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=1660
+12:21:43	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=1660 to http://paradise.jwsuperthemes.com/orchid-petals-inspir-nail-art/
+12:21:43	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/realistic-3d-tattoos/feed/ (from paradise.jwsuperthemes.com/services/realistic-3d-tattoos/)
+12:21:43	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=437
+12:21:43	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=437 to http://paradise.jwsuperthemes.com/services/realistic-3d-tattoos/
+12:21:43	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/skin-art/feed/ (from paradise.jwsuperthemes.com/services/skin-art/)
+12:21:47	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=1541
+12:21:47	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=1541 to http://paradise.jwsuperthemes.com/services/skin-art/
+12:21:47	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=13
+12:21:47	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=13 to http://paradise.jwsuperthemes.com/services/
+12:21:47	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=134
+12:21:47	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=134 to http://paradise.jwsuperthemes.com/testimonial/ollie-schneider/
+12:21:47	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=139
+12:21:47	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=139 to http://paradise.jwsuperthemes.com/testimonial/alexis-adams/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=140
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=140 to http://paradise.jwsuperthemes.com/testimonial/glen-welch/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=618
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=618 to http://paradise.jwsuperthemes.com/product/electric-shavers/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=615
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=615 to http://paradise.jwsuperthemes.com/product/giantex-hydraulic/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=622
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=622 to http://paradise.jwsuperthemes.com/product/giantex-hydraulic-2/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=623
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=623 to http://paradise.jwsuperthemes.com/product/shaving-silvertip/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=1089
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=1089 to http://paradise.jwsuperthemes.com/product/vetiver-massage-oil/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=909
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=909 to http://paradise.jwsuperthemes.com/the-balance-harmony-of-body-and-mind-2/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=912
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=912 to http://paradise.jwsuperthemes.com/the-balance-harmony-of-body-and-mind-3/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=914
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=914 to http://paradise.jwsuperthemes.com/the-personalized-ocean-and-earth-body-wrap-2/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/blogs/page/1/
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/blogs/page/1/ to http://paradise.jwsuperthemes.com/blogs/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=517
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=517 to http://paradise.jwsuperthemes.com/greg-nicholsons-black-grey-realism/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=526
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=526 to http://paradise.jwsuperthemes.com/the-tiny-complexities-of-pablo-torre/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=528
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=528 to http://paradise.jwsuperthemes.com/neo-traditional-ornate-animals/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=919
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=919 to http://paradise.jwsuperthemes.com/the-balance-harmony-of-body-and-mind-4/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=923
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=923 to http://paradise.jwsuperthemes.com/the-balance-harmony-of-body-and-mind-5/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=947
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=947 to http://paradise.jwsuperthemes.com/the-balance-harmony-of-body-and-mind-6/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/bloggrid-sidebar/page/1/
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/bloggrid-sidebar/page/1/ to http://paradise.jwsuperthemes.com/bloggrid-sidebar/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/blog-classic/page/1/
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/blog-classic/page/1/ to http://paradise.jwsuperthemes.com/blog-classic/
+12:21:48	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=949
+12:21:48	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=949 to http://paradise.jwsuperthemes.com/the-balance-harmony-of-body-and-mind-7/
+12:21:48	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/product-category/finance/.sidebar-shop (from paradise.jwsuperthemes.com/product-category/finance/)
+12:21:49	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/product-category/hair-cut/.sidebar-shop (from paradise.jwsuperthemes.com/product-category/hair-cut/)
+12:21:49	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/product-category/massage/.sidebar-shop (from paradise.jwsuperthemes.com/product-category/massage/)
+12:21:49	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/product/lavender-massage-oil/ (from paradise.jwsuperthemes.com/product-category/massage/)
+12:21:49	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/product-tag/book/.sidebar-shop (from paradise.jwsuperthemes.com/product-tag/book/)
+12:21:49	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/tribal-or-traditional/feed/ (from paradise.jwsuperthemes.com/services/tribal-or-traditional/)
+12:21:52	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=1544
+12:21:52	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=1544 to http://paradise.jwsuperthemes.com/services/tribal-or-traditional/
+12:21:54	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=148
+12:21:54	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=148 to http://paradise.jwsuperthemes.com/testimonial/letitia-shelton/
+12:21:54	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/color-or-black-grey/feed/ (from paradise.jwsuperthemes.com/services/color-or-black-grey/)
+12:21:57	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=1550
+12:21:57	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=1550 to http://paradise.jwsuperthemes.com/services/color-or-black-grey/
+12:22:01	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=471
+12:22:01	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=471 to http://paradise.jwsuperthemes.com/testimonial/roger-west/
+12:22:06	Error: 	"Not Found" (404) at link paradise.jwsuperthemes.com/services/reworks-and-cover-ups/feed/ (from paradise.jwsuperthemes.com/services/reworks-and-cover-ups/)
+12:22:06	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=1552
+12:22:06	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=1552 to http://paradise.jwsuperthemes.com/services/reworks-and-cover-ups/
+12:22:06	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=473
+12:22:06	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=473 to http://paradise.jwsuperthemes.com/testimonial/jackson-nash/
+12:22:08	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=475
+12:22:08	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=475 to http://paradise.jwsuperthemes.com/testimonial/ollie-schneider-2/
+12:22:09	Warning: 	Moved Permanently for paradise.jwsuperthemes.com/?p=479
+12:22:09	Warning: 	File has moved from paradise.jwsuperthemes.com/?p=479 to http://paradise.jwsuperthemes.com/testimonial/edwin-wood/
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 52 seconds : 880 links scanned, 762 files written (33494665 bytes overall) [13544363 bytes received at 17544 bytes/sec], 27599957 bytes transferred using HTTP compression in 480 files, ratio 19%, 14.3 requests per connection
+(26 errors, 185 warnings, 0 messages)

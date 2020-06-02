@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.jwsuperthemes.com	TRUE	/	FALSE	1999999999	__cfduid	d59bcdf3032adea4ee97d0692c9949be91591079958
+paradise.jwsuperthemes.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+paradise.jwsuperthemes.com	TRUE	/	FALSE	1999999999	PHPSESSID	3ada2d6ff0310c07d8e4fa61fd2bc455
+paradise.jwsuperthemes.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+paradise.jwsuperthemes.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_b5efa8b119b683db047ef973a2b3565b	7af335af42106389d3e7e77242559d68%7C%7C1591253035%7C%7C1591249435%7C%7Cb764526fa64855928dcb00d902f8487a
+.cloudflareinsights.com	TRUE	/	FALSE	1999999999	__cfduid	d49f707f38907dca964266fdfeb65363c1591080273
+static.cloudflareinsights.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+paradise.jwsuperthemes.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	b978ed77cac97ab6bf9f0994801475bc
+
